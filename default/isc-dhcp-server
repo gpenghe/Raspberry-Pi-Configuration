@@ -1,0 +1,2 @@
+DHCPD_CONF="/etc/dhcp/dhcpd.conf"
+INTERFACES="wlan0"
