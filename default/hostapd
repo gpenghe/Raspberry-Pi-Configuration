@@ -18,3 +18,4 @@ DAEMON_CONF="/etc/hostapd/hostapd.conf"
 # configured by the init.d script and must not be added to DAEMON_OPTS.
 #
 #DAEMON_OPTS=""
+DAEMON_CONF="/etc/hostapd/hostapd.conf" 
